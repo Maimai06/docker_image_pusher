@@ -7,6 +7,5 @@ xhofe/alist:latest
 fredliang44/derper:latest
 fredliang/derper:latest
 jwetzell/guacamole:latest	
-snowdreamtech/frps:latest	
-openresty/openresty:1.21.4.3-0-focal	
+snowdreamtech/frps:latest		
 rustdesk/rustdesk-server:latest	
