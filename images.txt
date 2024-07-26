@@ -10,3 +10,4 @@ jwetzell/guacamole:latest
 snowdreamtech/frps:latest		
 rustdesk/rustdesk-server:latest	
 halcyonazure/lsky-pro-docker:latest
+1panel/openresty:1.21.4.3-3-3-focal
