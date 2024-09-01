@@ -13,3 +13,4 @@ halcyonazure/lsky-pro-docker:latest
 1panel/openresty:1.21.4.3-3-3-focal
 containrrr/watchtower:latest
 easytier/easytier:latest
+adguard/adguardhome:latest
