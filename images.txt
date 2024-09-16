@@ -14,6 +14,6 @@ halcyonazure/lsky-pro-docker:latest
 #containrrr/watchtower:latest
 #easytier/easytier:latest
 #adguard/adguardhome:latest
-tailscale/tailscale:latest
-allfunc/speedtest:latest
-jeessy/ddns-go
+--platform=linux/arm64 tailscale/tailscale:latest
+--platform=linux/arm64 allfunc/speedtest:latest
+--platform=linux/arm64 jeessy/ddns-go
