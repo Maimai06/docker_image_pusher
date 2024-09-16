@@ -14,3 +14,4 @@ halcyonazure/lsky-pro-docker:latest
 containrrr/watchtower:latest
 easytier/easytier:latest
 adguard/adguardhome:latest
+tailscale/tailscale:latest
