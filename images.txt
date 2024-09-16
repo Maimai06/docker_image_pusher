@@ -16,4 +16,4 @@ halcyonazure/lsky-pro-docker:latest
 #adguard/adguardhome:latest
 tailscale/tailscale:latest
 allfunc/speedtest:latest
-jeessy/ddns-go:lastet
+jeessy/ddns-go
